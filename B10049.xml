@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the musicioners, the harpers, the minstrels, the singers, the dancers, the persecutors; from one who loved dancing and musick as his life, which being parted with, and the light being come, which was before these things, in which they are all seen, and from it is declared, the ground, foundation, beginning, and father, and children, and compass, and end, and the effects of all the harpers, mucisioners [sic], singers and dancers: who may reade what I have learned, who have tryed their wayes, and also searched into the things of God, and declare this according to Scripture, and have found the joy which man cannot take away, in which I rejoyce for ever, because the marriage of the Lamb is come.</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10049</idno>
+            <idno type="OCLC"> 124064284</idno>
+            <idno type="STC">Wing S4082</idno>
+            <idno type="STC">ESTC R234931</idno>
+            <idno type="EEBO-CITATION">124064284</idno>
+            <idno type="OCLC">ocn 124064284</idno>
+            <idno type="VID">192335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192335)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2916:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the musicioners, the harpers, the minstrels, the singers, the dancers, the persecutors; from one who loved dancing and musick as his life, which being parted with, and the light being come, which was before these things, in which they are all seen, and from it is declared, the ground, foundation, beginning, and father, and children, and compass, and end, and the effects of all the harpers, mucisioners [sic], singers and dancers: who may reade what I have learned, who have tryed their wayes, and also searched into the things of God, and declare this according to Scripture, and have found the joy which man cannot take away, in which I rejoyce for ever, because the marriage of the Lamb is come.</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the 11th moneth, 1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 7 signed: H.S.</note>
+                  <note>A variant at reel 1315:26 has "for Mary Westwood" following imprint.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian ethics --  Quaker authors --  Early works to 1800.</term>
+               <term>Music --  Religious aspects --  Early works to 1800.</term>
+               <term>Dance --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192335:1"/>
+            <pb facs="tcp:192335:1" rendition="simple:additions"/>
+            <p> TO THE MUSICIONERS, THE <hi>Harpers,</hi> the <hi>Minſtrels,</hi> the <hi>Singers,</hi> the <hi>Dancers,</hi> the <hi>Perſecutors;</hi>
+            </p>
+            <p>From one who loved Dancing and Muſick as his life, which being parted with, and the LIGHT being come, which was before theſe things, in which they are all ſeen, and from it is declared,</p>
+            <p>The Ground, Foundation, Be<g ref="char:EOLhyphen"/>ginning, and Father, and Children, and Compaſs, and End, and the Effects of all the Harpers, Muciſioners, Singers and Dancers:</p>
+            <p>Who may reade what I have learned, who have tryed their wayes, and alſo ſearched into the things of God, and de<g ref="char:EOLhyphen"/>clare this according to Scripture, and have found the joy which man cannot take away, in which I rejoyce for ever, becauſe the Marriage of the Lamb is come.</p>
+            <p>
+               <hi>London,</hi> Printed in the 11th moneth, 1658.</p>
+            <pb facs="tcp:192335:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="3" facs="tcp:192335:2" rendition="simple:additions"/>
+            <p> 
+               <hi>IUBAL</hi> was the father of all ſuch as handle the Harp and Organ, and ſo the father of all ſuch Muſicioners, being himſelf of the ſeed of <hi>Lamech,</hi> who ſlew a man, and ſo the ſon of a man-ſlayer was the father of all ſuch as handle the Harp and Organ; and the man Chriſt, the Light, is the Lamb ſlain from the foundation of the world: and <hi>Jubal</hi> was of the generation of <hi>Cain,</hi> who firſt ſlew a man, and then built a City; he ſlew his brother, one that was near un<g ref="char:EOLhyphen"/>to him: and the light of the Lamb ſlain is near unto every one, even that which comes from the man of ſorrows is in the heart, <hi>Cains</hi> ſeed ſlays the man of ſorrows, the Muſicioners were of <hi>Cains</hi> ſeed, and that which ſlays the man of ſorrows, invents, ſet up and delights in the inſtruments of muſick; and the father of all ſuch was <hi>Jubal,</hi> the ſeed of <hi>Cain,</hi> who built a City, and ſo was a rich man, and his ſeed delighted in muſick, and ſo his ſeed, who are begotten from the Lord, are building Cities, ſtrong holds, high and large houſes, with painted Parlours, and then ſet up the inſtruments of Muſick, in the cieled houſes without, and within themſelves full of rottenneſs, or as a Cage of unclean ſpirits, whereby the juſt is mur<g ref="char:EOLhyphen"/>thered, and the houſe lie waſte and deſolate, as to the life of God, which ſhould be the Temple of the holy Ghoſt; and the father of all theſe was <hi>Jubal,</hi> the ſeed of <hi>Lamech</hi> a man-ſlayer, who alſo had another ſon <hi>Tubal-Cain</hi> (the ſeed of <hi>Cain)</hi> an inſtructer of every artificer in braſs and iron; and he that hath attained to never ſo much, if not come to that which fulfils the perfect Law, is as a ſounding braſs, 1 Cor. 13. and there is ma<g ref="char:EOLhyphen"/>ny alſo of the ſeed of this inſtructer, whoſe inſtructions brings people to be but as ſounding braſs: and this firſt inſtructer, and <hi>Jubal,</hi> were the off<g ref="char:EOLhyphen"/>ſpring of <hi>Cain,</hi> the vagabond driven from God, againſt whom the blood of the righteous doth cry, yet ſo rich in the earth, that he built a City, be<g ref="char:EOLhyphen"/>ing ſeparated from God, (who confounds mans wiſdome) then comes that which makes merry over the Witneſs, <hi>Gen.</hi> 4.</p>
+            <p>And they who danced in the wilderneſs, and ſung and made a great noiſe, and were in the mirth and vain delights, were a ſtiff-necked people and ſuch as ſate down to eat and drink, and roſe up to play, like the ſame generation now, who are ſtiff necked and bow not to him who is the Light, low in the heart to whom every knee ſhall bow, but eat and drink, and riſe up to vain delights, having muſick at their feaſts, feeding them<g ref="char:EOLhyphen"/>ſelves without fear, <hi>Jude</hi> 12. like <hi>Jezabel,</hi> (at whoſe table the falſe Pro<g ref="char:EOLhyphen"/>phets feed) who made a feaſt, when ſhe intended to murther the righte<g ref="char:EOLhyphen"/>ous, to gain his poſſeſſion, (reade within) and that which murthers the juſt, and ſuch who forgets God, delights in theſe things, for they that ſung and danced in the wilderneſs, forgot the mighty power of the Lord which brought them out of bondage, therefore they got into the carnal liberty, like many others at this day, before they come to the true reſt, and theſe were in the falſe worſhip, who worſhip that which the car<g ref="char:EOLhyphen"/>nal eye might perceive, and theſe had loſt the true guide, and when they were in their ſinging and dancing, they knew not what was become of him, who was the Minſſter of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Law that diſcovers ſin: but though they who danced ſaw him not for a time, and began to deſpiſe him, yet
+<pb n="4" facs="tcp:192335:3"/> in a time unexpected, he came upon them in the fierceneſs of his anger, who executed the judgments of the Lord upon thoſe vain dancers, with whom he was grieved, who was in the Church in the wilderneſs, and is the holy One in the midſt, who with a ſudden ſlaughter deſtroyed theſe dancers, whoſe voice of ſinging was not becauſe of maſtery, neither was their voiſe the voice of the cry of the oppreſſed, and theſe were Idola<g ref="char:EOLhyphen"/>ters, whoſe hearts were uncircumciſed, and knew not the wayes of God, who therefore condemned them with an utter overthrow, that they pe<g ref="char:EOLhyphen"/>riſhed in the wilderneſs where they thus ſinned, after they had ſeen the deliverances of the Lord, as many of the Rulers and people of <hi>England</hi> have done, who have forgotten their Leader, to whom theſe are left for an enſample, of whom there were about thirty thouſand ſlain, for their ſinging, dancing, and falſe worſhip, <hi>Exod.</hi> 32. 1 <hi>Cor.</hi> 9.</p>
+            <p>And <hi>Herod</hi> had dancing before him, and ſhe that danced, and he that was pleaſed with the dancing, cauſed his head to be taken off that directed to him that is the Light, and preached the Lamb, that takes away the ſin, and their carnal nature, and ſo this murthers that, which is to prepare the way of the Lord; and they took off his head, and murthered him, who was a burning and a ſhining Light, and ſlew him that preached Re<g ref="char:EOLhyphen"/>pentance, and ſo the dancers, and the Rulers of the earth, who were pleaſed with dancing and muſick, murthers that in them, which calls to repentance, and are ready to murther ſuch as preach repentance to them: and whilſt there is a delighting in dancing and muſick, that which calleth to repentance is in bondage, for <hi>John</hi> vvas in priſon, when <hi>Herod</hi> vvas pleaſed vvith the dancing; and there is not a greater Prophet, than he that preacheth repentance, and he that proclaims the way of the Lord vvas in priſon, and ſhe that danced deſired his death, and he that cauſed him to be beheaded vvas a King, a great one in the earth, vvho vvas pleaſed vvith dancing, and vvas a ſvvearer out of Chriſts doctrine, for he promiſed vvith an oath, vvhatſoever ſhe vvould ask, vvho danced before him; then nothing vvould ſatisfie the dancer, but the death of him vvho preached repentance, and he vvas an obſerver of dayes, and kept the day of his birth vvith dancing: it vvas his birth day, the day of his birte, in vvhich he vvas brought forth, vvho vvas a ſvvearer, (the ſvvearers de<g ref="char:EOLhyphen"/>light in dancing) that cauſed his head to be taken off, vvho vvarned them that had the Oracles of God, to fly from the vvrath to come, and ſaid they vvere a generation of Vipers, vvho had the Scriptures, and came alſo to his baptiſm, and brought not forth fruits meet for repentance, (theſe are the Vipers) and ſo that vvhich is to lead unto Chriſt doth ſuf<g ref="char:EOLhyphen"/>fer in bondage, and is murthered, and the head or firſt appearance of it taken off, upon that day vvhich the birth of that is brought forth, vvhich is pleaſed with the dancing; not like <hi>Job</hi> and <hi>Jeremy,</hi> and delights in the muſick, and that vvhich exerciſeth the minde of the creature in the dancing, deſireth the death and murthering of that in priſon, vvhich is to call to repentance, above all other things; yea there is nothing then ſo much deſired, as the killing and overcoming of that vvhich is caſt into priſon, by him that delights in the muſick, <hi>Matth,</hi> 14.</p>
+            <p>And vvhen them in <hi>Iſrael</hi> vvho had Harps (the Muſicioners) them vvho
+<pb n="5" facs="tcp:192335:3"/> delighted in muſick, vvere carried captive into <hi>Babylon,</hi> the land of Con<g ref="char:EOLhyphen"/>fuſion, in vvhich land <hi>Nimrod</hi> the mighty one in the earth vvent hunting before the Lord, and by the River of <hi>Babylon</hi> they ſate dovvn and vvept, vvho vvere before the Muſitioners vvith their Harps; theſe vvent into captivity becauſe of the ſin, and hanged their Harps upon the Willovves, and ſate dovvn mourning by the River of confuſion, and that vvhich de<g ref="char:EOLhyphen"/>lighted in the Muſick cauſed the ſeed to be captivated, and leads into bon<g ref="char:EOLunhyphen"/>dage that vvhich ſhould come to liberty, vvhereby ſorrovv, vveeping and mourning comes in the end; for the ſongs of the temple is to be turned into howling and their delight in the muſick was turned into weep<g ref="char:EOLhyphen"/>ing, and they led captive from <hi>Zion,</hi> who were come to the land of pro<g ref="char:EOLhyphen"/>miſe, and there took liberty in theſe fleſhly delights, <hi>Pſalm</hi> 137. the mind that hath wiſdome may read this.</p>
+            <p>And it was the King of <hi>Babylon,</hi> (who ſaid is not this great <hi>Babylon</hi> that I have built by the might of my power, for the honour of my Majeſty) that ſet up the golden image to be worſhipped at the heaering of all kind of Muſick, and he alſo was a great man in the earth, a great King, the King of <hi>Babylon,</hi> a mighty one in confuſion, who commanded the Magici<g ref="char:EOLhyphen"/>ans, the Aſtrologers, and Sorcerers, and Caldeans, and ruled over them, and all them that dwelt in the earth; and he ſent greetings of peace to all people, nations and languages that dwell in all the earth, but he that is the light comes not to ſend peace on the earth; and the Angel cryed woe, woe, woe, to the inhabitants of the earth, but he that was King over nations in the earth had many inſtruments of Muſick, even all kinds of Muſick, and he that delighted in the muſick ſet up the golden image, and by his command, they that heard the muſick were preſently to fall down and worſhip the great golden image, like the children of Iſrael who ſet up the golden Calf, and theſe were Idolaters, and in the falſe worſhip, and that which delighted in all kinds of Muſick was in the enmity to the righ<g ref="char:EOLhyphen"/>teous ſeed and ſought to murther them who denyed the Muſick and falſe worſhip, and therein ſuch appears to be of <hi>Cain</hi> the Murtherer, and of <hi>La<g ref="char:EOLhyphen"/>mech</hi> the manſlayer, and theſe great ones in the earth, who had all kinds of muſick were in <hi>Babylon</hi> and theſe were the perſecutors, (and ſuch per<g ref="char:EOLhyphen"/>ſecute now) whoſe rage was exceeding great againſt the ſervants of the living God, who to him were faithful though in <hi>Babylon,</hi> and regarded not their muſick neither feared their great threatning words nor yet obey their ſtrict commands, neither would they keep their decrees, nor take much care to anſwer them tn that matter, nor bow before their image though made vvith gold, nor vvorſhip any other God then he that dvvels in his people, though they vvere in the land of captivity, among them in the land of confuſion, vvho at laſt vvere brought to confeſs unto, and fear and tremble before the living God (vvho is light) that revealeth ſecrets in the hearts.</p>
+            <p>But that which delights in the Muſick, ſeeks to murther the juſt, and unto that which ſeeks to murther, and perſecute all them who are yet great in the earth, are joyned (being not out of the earth re<g ref="char:EOLhyphen"/>deemed) and the Rulers of the earth take counſell together, againſt the annointed, which need not man to teach, which ſeed is preſerved and
+<pb n="6" facs="tcp:192335:4"/> anointed, amongſt the flames of their burning enmity) for the Princes, the Governors, the Captains, the Judges, the Rulers, the Counſellers, the Sheriffs, and all the Rulers of the Provinces, who were of Babylon, that delight<g ref="char:EOLhyphen"/>ed in the muſick, ſtood before the image, and were in the falſe worſhip and joyned together in the perſecution, (as ſuch do now) againſt the ſeed of God, and to confirme the Decree made by the King of Babylon, which Decree was made with ſuch fierce Tyranny, and height of pride and envie, that nothing leſſe but preſently to caſt into the burning fie<g ref="char:EOLhyphen"/>ry furnace, would ſatisfie that nature, which ruled in theſe great Rulers in the earth, that loved the Muſick, whoſe fire of enmity burned within them, and they cauſed their Decree to be Proclaimed with a loud voice, that at the hearing of their muſicke, all men ſhould worſhip their I<g ref="char:EOLhyphen"/>mage, or preſently be caſt into the fire without, becauſe of their fire of enmity within, the which Decree being not obeyed, nor their Image wor<g ref="char:EOLhyphen"/>ſhipped, nor their enmity within, nor furnance without regarded by the ſervants of the living God, preſently the King of Babylon was ſo full of fu<g ref="char:EOLhyphen"/>ry, as the furnace was full of fire, ſo that the forme of his viſage was chang<g ref="char:EOLhyphen"/>ed, and roſe up in that power of enmity againſt the righteous ſeed, like <hi>Cain</hi> the murtherer; who roſe up againſt his brother, whoſe countenance alſo was changed, whereby it appears he and the reſt were of <hi>Cains</hi> ſeed, and the Muſitioners of their father <hi>Jubal</hi> the ſeed of <hi>Lamech</hi> who ſlew a man, read <hi>Dan.</hi> 3. When the Harp and the muſike goe they muſt vvorſhip the Image in the worlds figure.</p>
+            <p>And the perſecuting Rulers of England, need not to put this far from them, being rich and mighty in the earth, and envious like <hi>Cain,</hi> and de<g ref="char:EOLhyphen"/>lighting in the muſick, like the reſt of his ſeed, for the great Whore, and mother of Harlots, and abominations of the earth, Miſtery Babylon, have made all the Kings of the earth drunk with the wine of her fornicati<g ref="char:EOLhyphen"/>on, and the great men, the rich men of the Earth, and all nations have committed fornication with her, who have corrupted the earth, and all Nations wonders after the Beaſt, and in all nations the ſeed, and children of Miſtery Babylon, and of <hi>Cain</hi> and <hi>Lamech</hi> are ſprung up, and even in this nation, and other adjacent Kingdoms, the Princes, the Governours, and Captains, the Judges the Treaſurers, the Coun<g ref="char:EOLhyphen"/>ſellers, the Shriefs, and the Rulers of the Provinces, delighteth in the inſtruments of Muſike, and are envious againſt the righteous ſeed, who cannot bow to any image, nor worſhip, any golden glorious image, or likeneſſe whatſoever, but the living God who is able to deliver them, and is a Spirit dwelling in his people, and in ſpirit is worſhipped by them who cannot bow unto, or worſhip any image, or likeneſſe without, ſet up by the will of man.</p>
+            <p>And therefore it is this day that the Governours, and Captains, the Judges, the Treaſurers, the Counſellers, the Shriefs, the Juſtices, and all the Rulers in the earth, who are of Babels ſtocke, and of their Fathers, <hi>Cain, Lamech,</hi> and <hi>Jubal,</hi> are joyning together to pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſecute them that worſhip God in ſpirit, who commanded not to bow down or worſhip any Image, or likeneſſe, and ſo their likeneſſes are denyed, the ſubſtance be<g ref="char:EOLhyphen"/>ing come, and Chriſt revealed within, who is a man of Sorrowes, who
+<pb n="7" facs="tcp:192335:4"/> ſaid the world ſhould rejoyce, <hi>Iohn</hi> 16. 20. But their joy ſhould be turned into ſorrow, and his light in the conſcience is it which judgeth thoſe vaine delights in carnall muſick, which is to periſh with the u<g ref="char:EOLhyphen"/>ſing.</p>
+            <p>For when the Spirit was departed from <hi>Saul,</hi> he ſought for one to play upon a Harpe before him, and for a time he was ſatisfied with that, and when he heard the muſick, he would be well, but afterwards his de<g ref="char:EOLhyphen"/>light in the muſick, could not overcome that murthering ſpirit in him, but at the very time that <hi>Saul</hi> heard the muſick, he ſought to ſlay him that was to be King, and ſuch as <hi>Saul,</hi> who rejecteth the Counſell of God, ſlayes him that is the light<g ref="char:punc">▪</g> and would not that he ſhould Raign, who is a man of ſorrows, and he that loved the muſick, had an evill ſpirit, or ſomething that troubled him, and that which moved in him, while he heard the muſick, to murther that which was to Raign, (the Lords An<g ref="char:EOLhyphen"/>nointed) the ſame thing lead him to the Witch, and ſo firſt he left the Spirit of God, then ſought eaſe by muſick, then ſought counſell from the Witch, and he was ſhortly after deſtroyed, they follow witchcraft, who obey not the Truth which makes free, and he that is the Light is the Truth, and the Lamb ſlain, by that which takes delight in that, which is out of the Truth, invented by the generation of <hi>Cain,</hi> a fugitive in the earth, of whom his deceived mother ſaid, <hi>I have gotten a man from the Lord,</hi> whoſe ſeed loves that which keeps from the Lord, and leads into the Witchcraft (like <hi>Saul)</hi> not obeying the Lord, nor the Truth of his Son<g ref="char:punc">▪</g> who is the Light, and <hi>Saul</hi> being required made uſe of the Harp, to quiet him for a time, from whom the ſpirit of the Lord was departed, and af<g ref="char:EOLhyphen"/>terwards the ſeed of the evill doers, even the chief of the Nations, did chaunt to the ſound of the viall, and invent unto themſelves inſtruments of muſick, (like <hi>David)</hi> putting far away the evill day, lying upon beds of Jvory drinking wine in bowls, but not grieved for the afliction of the Righteous ſeed, and theſe were them that were at eaſe in Sion, who were to go into captivity with the firſt that go into captivity, whom the woe is to as may be read, <hi>Amos.</hi> 6.</p>
+            <p>And <hi>Solomons</hi> wives menſingers, women ſingers, and inſtruments of muſicke, drawed away his heart from the Lord, and after he cryed againſt the vanity of theſe things, for it leads out from the Spirit (and fear) of the God of order within into the many confuſed things, without and ſuch as follow that are of Babel, the mother of Harlots, who have made all nations drunk, in whom the time is come, that the voice of Harpers and Muſitioners ſhall be heard no more at all, for the foundation and Skirts of that great vvhore, and her Craftſmen, are diſcovered vvith the Light, vvhich judgeth theſe things.</p>
+            <p>From a priſoner of Chriſt, in vvhom my life is hid.</p>
+            <closer>
+               <signed>H. S.</signed>
+            </closer>
+         </div>
+         <div type="tract">
+            <pb n="8" facs="tcp:192335:5"/>
+            <head>Concerning Poets, Jeſters, Rhimers, and all that wanton crew.</head>
+            <p>ALL ye Poets, Jeſters, Rhimers, makers of Verſes and Ballads, who bend your wits to pleaſe novelties, light minds, who delights injeſts &amp; toyes, more then in the ſimple naked truth which you ſhould be united to, you are for the undoing of many poor ſouls, it is your work to tickle up the ears of people with your jeſts and toyes; this proceeds from a wrong heart where dwells the luſt, and feeds the wrong heart and mind and wits, which brings them to the grave and duſt, and there buries the minds and clogs the na<g ref="char:EOLhyphen"/>ture, which is a ſhame to all that be in the modeſty and pure ſincerity &amp; truth and cleaneſs of mind, therefore all you young wits learn not to make verſes, for it is the Ballad-makers trade and fidlers road, and the ſcholars of <hi>Oxford</hi> &amp; <hi>Cambridges</hi> gaine and learning, and lay aſide all your learning of Logiſtical Arts, for that brings you into and keeps you in the dark, but come to the naked ſimplicity of truth that with that you may rule that a pure underſtanding you may have, you think your ſelves witty when verſes you can make and rhimes, &amp; this you learn in your Schooles, like unto Bal<g ref="char:EOLhyphen"/>lad-makers, and when you have gotten on your garment and coat of Lod<g ref="char:EOLhyphen"/>gick, you think to deceive the hearts of the people, but that is out of the path of Chriſt and his road and way that he walked in, as you may read in the Scriptures of truth, you Jeſters, and Rhimers, and Logick inventers, which you deceive vain and light peoples minds withal amongſt whom you are called witty. But I ſhall tell you the Schollers of <hi>Oxford</hi> and <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> in your rhimes and in your jeſts in your verſes and in your Lodgick, it would be more pleaſing to God for you to get a ſpade on your backs, &amp; a great old glove; and a bill in your hand, and ſtop gaps and make up old hedges, and threſh out corn, &amp; go amongſt the day labouring men for 3. <hi>d.</hi> a day, and this is more wholeſome and this is a ſweet ſavour, and burn all your Logick books and verſe books, ye ſchollars of <hi>Oxford</hi> and <hi>Cambridge,</hi> &amp; you Ballad-makers and Fidlers, and Players and Mountebancks, who poy<g ref="char:EOLhyphen"/>ſons the world and poor people, but now are you diſcovered, and throw away your inventions, for the rod of God and the power of truth is gone over you, and ſtands a top of your heads, and with the wiſdome of God you are comprehended, and the wrath of God is come upon you all, and your ſwimming ſeen, and what you ſwim in, with all your verſes and your Logick, and your Ballads, and Rhimes, both Ballad-makers and Mounte<g ref="char:EOLhyphen"/>bancks, and Schollars and Fidlers, the ground of your Scholiſtical Phra<g ref="char:EOLhyphen"/>ſes and Verſes, Rhymes and Jeſts, Verſe makers, Schollars, Fidlers, Play<g ref="char:EOLhyphen"/>ers and Mountebancks, are all from the witneſs of God in you, and the Lord hath a controverſie with you, who will anſwer the witneſs of God in you, by his power, by his ſword, by his hand for all your inventions and actions; Rhymes, Verſes, Lodgick, is from the plain innocent witneſs of God in you, which if ever it ſtirr and be awakned in you, it will judge you for your actions, for the terrible God is come to reign, and you have no place to hide your ſelves, when every haileſtone ſhall fall upon you the weight of a Talent, this is in love to your ſouls.</p>
+            <closer>
+               <signed>G. B.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="permission_to_translate">
+            <p>
+               <hi>This may be Tranſlated (truely) into Latine, French or other Languages by any friend in truth.</hi>
+            </p>
+            <pb facs="tcp:192335:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
